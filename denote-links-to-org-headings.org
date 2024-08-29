@@ -1,0 +1,17 @@
+#+TITLE: Denote links to org headings
+#+AUTHOR: Fab
+
+- ~org-store-link~
+- ~org-insert-link~
+
+* Link to this header
+
+Some text.
+
+* Another header here
+
+Some text.
+
+* And the third one
+
+Some text.
